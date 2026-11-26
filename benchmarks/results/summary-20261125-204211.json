@@ -1,0 +1,20 @@
+[
+  {
+    "pages": 500,
+    "generation_seconds": 0.0,
+    "index_seconds": 4.41,
+    "index_pages_per_second": 113.3,
+    "documents": 1,
+    "chunks": 500,
+    "blocks": 1000,
+    "vector_status": "none",
+    "query_count": 25,
+    "latency_p50_ms": 2.9,
+    "latency_p95_ms": 12.3,
+    "marker_top1_accuracy": 1.0,
+    "topic_recall_at_5": 0.0,
+    "data_dir_mb": 9.5,
+    "pdf_size_mb": 0.6,
+    "mode": "BM25 only (no embedding configured)"
+  }
+]

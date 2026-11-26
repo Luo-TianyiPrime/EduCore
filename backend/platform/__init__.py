@@ -1,0 +1,1 @@
+"""Platform adapters: paths, credentials, OS integration."""

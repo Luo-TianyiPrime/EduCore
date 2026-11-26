@@ -1,0 +1,1 @@
+"""OCR adapters and page-level OCR service."""

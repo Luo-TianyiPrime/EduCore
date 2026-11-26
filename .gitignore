@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.uv/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+pnpm-debug.log*
+
+# Local runtime data (must never be committed)
+EduCore-Data/
+.devdata/
+.packdata/
+.packdata*/
+.samples/
+benchmarks/results/pages-*/
+benchmarks/.data/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+*.lance/
+.cache/
+logs/
+
+# Secrets / local config
+.env
+.env.*
+!.env.example
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+coverage.xml
+htmlcov/
+playwright-report/
+test-results/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Agent harness state (tooling, not project source)
+.mimosa/
+.zcode/
