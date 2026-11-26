@@ -58,3 +58,7 @@ dist/EduCore/EduCore.exe
 - Windows portable 打包版已实机启动、扫描、检索、退出。
 - **未验证**：真实模型（无授权凭据）、真实 OCR 服务、macOS 真机、干净 Windows 安装包、L/XL 规模。
   详细清单与原因见 `docs/IMPLEMENTATION_STATUS.md`，不以 Mock 或自检结果冒充通过。
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE)。Copyright (c) 2026 Luo-TianyiPrime。
